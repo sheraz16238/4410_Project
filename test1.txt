@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D2AA-BCAE
+
+ Directory of C:\Users\Bruker\Desktop\semester 03\4410_git
+
+09/25/2020  12:40 AM    <DIR>          .
+09/25/2020  12:40 AM    <DIR>          ..
+09/25/2020  12:40 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  138,544,951,296 bytes free
